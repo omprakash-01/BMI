@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin: 60px;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: gainsboro;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border: solid black 5px;
+}
+.heading{
+    /* margin: 20px; */
+    padding-top: 10px;
+}
+#btn{
+    font-size: 20px;
+    padding: 8px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: rgb(9, 182, 29);
+    cursor: pointer;
+}
+#btn:hover{
+    background-color: red;
+    color: white;
+}
+h3{
+    margin: 10px;
+}
+p{
+    margin: 10px;
+}
+.height{
+    margin-top: 15px;
+}
