@@ -39,3 +39,7 @@ p{
 .height{
     margin-top: 15px;
 }
+#result{
+background-color: rgb(190, 231, 96);
+padding: 5px;
+}
