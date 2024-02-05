@@ -14,7 +14,7 @@ form.addEventListener('submit', function (event) {
     }
     else{
       let bmi =  (weight/((height*height)/10000)).toFixed(2);
-    //   Show resutl
+    //   Show result
     // result.innerHTML=`<span>${bmi}</span>`
     if(bmi<=18.6){
         result.innerHTML=`<span>Your are Under Weight ${bmi}</span>`;
